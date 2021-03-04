@@ -1,7 +1,19 @@
 {
   "places": [
-    { "id": 1, "title": "Cup of Love" },
-    { "id": 2, "title": "Jays Cafe" },
-    { "id": 3, "title": "Rakun Burger" }
+    { 
+      "id": 1, 
+      "title": "Cup of Love",
+      "slug": "cup-of-love"
+    },
+    { 
+      "id": 2, 
+      "title": "Jays Cafe",
+      "slug": "jays-cafe"
+    },
+    { 
+      "id": 3, 
+      "title": "Rakun Burger",
+      "slug": "rakun-burger"
+    }
   ]
 }
